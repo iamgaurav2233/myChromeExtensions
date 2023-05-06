@@ -1,3 +1,6 @@
+This chrome extension helps us to keep track of chrome history
+--------------------------------------------------------------
+
 Calls
 -----
 
